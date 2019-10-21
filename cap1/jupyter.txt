@@ -1,0 +1,14 @@
+inicie o jupyter direto no diretorio onde irá trabalhar
+
+# limpar as saidas
+
+opção kernel 
+    restart & clear output
+
+# para definir um comentario 
+    colocar o sinal de #
+        depois va no dropdown e defina como markdown
+        e clique em run
+
+
+
